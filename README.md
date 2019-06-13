@@ -1,0 +1,2 @@
+# Schleckser-Website
+Static website
